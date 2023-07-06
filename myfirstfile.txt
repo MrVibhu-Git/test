@@ -1,2 +1,3 @@
 hello everyone
-im writing my first code in the git hub
+I'm writing my first code in the Git hub
+so I am advancing in it
