@@ -2,3 +2,4 @@ hello everyone
 I'm writing my first code in the Git hub
 so I am advancing in it
 learning about the possibilties
+learnt less about it
